@@ -11,3 +11,7 @@ Digital technologies have dramatically transformed society, enhancing communicat
 ## Presentation
 Link presentation: https://www.canva.com/design/DAGM4lotA98/A0p2TOjtebI-s20fmcO3ng/view?utm_content=DAGM4lotA98&utm_campaign=designshare&utm_medium=link&utm_source=editor
 https://www.canva.com/design/DAGM4lotA98/GrJ-2hV4DrPaEBwoG6omCw/view
+
+## Some results
+![Gender editors dist by category](https://github.com/user-attachments/assets/b46b11bc-7ca9-47d9-ac5d-bc2ea1110f3c)
+![Gender bios dist by category](https://github.com/user-attachments/assets/78ea9d12-a112-4d40-ba01-e719179f6b4e)
